@@ -16,7 +16,7 @@
 
 @import "font-awesome";
 
-.navbar-blue {
+.background-blue {
   background: #1782B8;
   border-color: #1782B8;
 }
@@ -32,3 +32,51 @@
   border-radius: 10px;
   margin-left: 50px;
 }
+
+.h1-classiq {
+  color: white;
+  font-family:qlassikbold;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.text-classiq {
+  color:white;
+  font-family:qlassikbold;
+  margin-bottom: 30px;
+}
+
+.android-icon {
+  color:#97C03E;
+  font-size:20px;
+  margin-right:15px;
+}
+
+.activity {
+  display: inline-block;
+  width: 100%;
+  color:white;
+  font-size:150px;
+  text-align: center;
+}
+
+.big-font {
+  font-size: 30px;
+}
+
+.goal-icon {
+  color:white;
+  font-size:150px;
+  display: inline-block;
+  width: 100%;
+  text-align: center
+}
+
+.contact-icon {
+  color:grey;
+  font-size:120px;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+
